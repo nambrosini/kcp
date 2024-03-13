@@ -6,7 +6,6 @@ package cmd
 import (
 	"github.com/nambrosini/kcp/config"
 	"github.com/nambrosini/kcp/kafka"
-
 	"github.com/spf13/cobra"
 )
 
